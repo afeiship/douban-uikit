@@ -1,0 +1,26 @@
+{
+  "name": "douban-uikit-sass",
+  "description": "Douban site uikit.",
+  "main": "dist/douban-uikit-sass.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/douban-uikit-sass",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
